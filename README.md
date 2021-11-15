@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 * [그룹웨어] <a href="https://github.com/pastelto/HelloWorks">HelloWorks</a>
 * [커뮤니티] <a href="https://github.com/pastelto/DOLIKE">DOLIKE</a>
 
- 📑 **Notion** : <a href="https://www.notion.so/Wish-s-List-a876d899fd854a7598a5e73622f80c63">Wish's Notion →</a>
+ 📑 **Notion** : <a href="https://www.notion.so/Wish-s-List-a876d899fd854a7598a5e73622f80c63"> Wish's Notion </a>
  
  📧 **email** : nare20027@gmail.com 
