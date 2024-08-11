@@ -32,3 +32,5 @@ Here are some ideas to get you started:
  📑 **Notion** : <a href="https://www.notion.so/Wish-s-List-a876d899fd854a7598a5e73622f80c63"> Wish's Notion </a>
  
  📧 **email** : nare20027@gmail.com 
+
+ 👩‍💻 Working for InnoTree.Corp since 2021.12 as a Web-Software Engineer
