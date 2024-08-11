@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 #### 🛠 Used Tool & Skill
 
-* Tool : Eclips, STS, VSCode, GIT
-* Database : OracleDB
+* Tool : SVN, GIT, PostMan 
+* Database : OracleDB, MSSQL, NO SQL
 * Skill 
-  + Backend : Java, SpringFramework,  Mybatis
-  + Frontend: AJAX, Jquery, HTML, CSS 
+  + Java, SpringFramework, Mybatis
+  + AJAX, Jquery, Node.js
+  + Hybris
 
 #### 🚀 Project
 * [그룹웨어] <a href="https://github.com/pastelto/HelloWorks">HelloWorks</a>
