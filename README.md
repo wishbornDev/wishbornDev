@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 #### 🛠 Used Tool & Skill
 
-* Tool : SVN, GIT, PostMan 
-* Database : OracleDB, MSSQL, NO SQL
+* Tool : SVN, GIT, Jenkins, Hybris-commerce
+* Database : OracleDB, MSSQL, DBMS
 * Skill 
   + Java, SpringFramework, Mybatis
-  + AJAX, Jquery, Node.js
+  + JavaScript, AJAX, Jquery
   + Hybris
 
 #### 🚀 Project
