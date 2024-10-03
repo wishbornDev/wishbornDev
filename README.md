@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 #### 🛠 Used Tool & Skill
 
 * Tool : SVN, GIT, Jenkins, Hybris-commerce
-* Database : OracleDB, MSSQL, DBMS
+* Database : OracleDB, MongoDB, MSSQL, DBMS
 * Skill 
-  + Java, SpringFramework, Mybatis
+  + Java, SpringFramework, Mybatis, Node.js
   + JavaScript, AJAX, Jquery
   + Hybris
 
