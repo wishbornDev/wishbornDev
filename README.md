@@ -34,4 +34,4 @@ Here are some ideas to get you started:
  
  📧 **email** : nare20027@gmail.com 
 
- 👩‍💻 Working for InnoTree.Corp since 2021.12 as a Web-Software Engineer
+ 👩‍💻 Worked for InnoTree.Corp since 2021.12 until 2024.12 as a Web-Software Engineer
