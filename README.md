@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 * [커뮤니티] <a href="https://github.com/pastelto/DOLIKE">DOLIKE</a>
 
  📑 **Notion** : <a href="https://www.notion.so/Wish-s-List-a876d899fd854a7598a5e73622f80c63"> Wish's Notion </a>
+
+ 📚 **Velog** : <a href="https://velog.io/@nare20027"> Wish's Velog </a>
  
  📧 **email** : nare20027@gmail.com 
 
