@@ -37,3 +37,5 @@ Here are some ideas to get you started:
  📧 **email** : nare20027@gmail.com 
 
  👩‍💻 Worked for InnoTree.Corp since 2021.12 until 2024.12 as a Web-Software Engineer
+
+ <img src="https://github-readme-stats.vercel.app/api?username=wishbornDev&theme=vue&show_icons=true"/></a>
