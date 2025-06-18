@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nare20027&show_icons=true&theme=dracula)-->
+ <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/wishk" width="600" height="300"/></a>
 
 #### 🛠 Used Tool & Skill
 
@@ -39,3 +40,4 @@ Here are some ideas to get you started:
  👩‍💻 Worked for InnoTree.Corp since 2021.12 until 2024.12 as a Web-Software Engineer
 
  <img src="https://github-readme-stats.vercel.app/api?username=wishbornDev&theme=vue&show_icons=true"/></a>
+
